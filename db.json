@@ -26,5 +26,12 @@
       {"specialtyid": "10", "specialty":"gaming", "topic": "Games", "totaluser": "20", "totalfeed": "30", "totaladminfeed": "30", "totaluserfeed": "40"},
       {"specialtyid": "11", "specialty":"studying", "topic": "Study", "totaluser": "30", "totalfeed": "10", "totaladminfeed": "20", "totaluserfeed": "10"},
       {"specialtyid": "12", "specialty":"Cycling", "topic": "Cycle", "totaluser": "40", "totalfeed": "22", "totaladminfeed": "30", "totaluserfeed": "20"}
-    ]
+    ],
+      "feedinformation": [
+         { "feedid": "01", "enabledisable":"enable", "creator": "Code", "timestampcreation": "23 Apr 2017 8:42:35", "feedname": "Eliseo", "pubmedname: "Lew", "description": "Description text", "specialtyid": "1", "topic": "Coding", "rssurl":"RSS URL", "papersperweek":"2", "avepercentageright":"70%"},
+         { "feedid": "01", "enabledisable":"enable", "creator": "Code", "timestampcreation": "23 Apr 2017 8:42:35", "feedname": "Jayne", "pubmedname: "Merry", "description": "Description text", "specialtyid": "1", "topic": "Coding", "rssurl":"RSS URL", "papersperweek":"2", "avepercentageright":"70%"},
+         { "feedid": "01", "enabledisable":"enable", "creator": "Code", "timestampcreation": "23 Apr 2017 8:42:35", "feedname": "Nikita", "pubmedname: "Luies", "description": "Description text", "specialtyid": "1", "topic": "Coding", "rssurl":"RSS URL", "papersperweek":"2", "avepercentageright":"70%"},
+         { "feedid": "01", "enabledisable":"enable", "creator": "Code", "timestampcreation": "23 Apr 2017 8:42:35", "feedname": "Hayden", "pubmedname: "Jenny", "description": "Description text", "specialtyid": "1", "topic": "Coding", "rssurl":"RSS URL", "papersperweek":"2", "avepercentageright":"70%"},
+         { "feedid": "01", "enabledisable":"enable", "creator": "Code", "timestampcreation": "23 Apr 2017 8:42:35", "feedname": "Ravi", "pubmedname: "Jay", "description": "Description text", "specialtyid": "1", "topic": "Coding", "rssurl":"RSS URL", "papersperweek":"2", "avepercentageright":"70%"},
+         { "feedid": "01", "enabledisable":"enable", "creator": "Code", "timestampcreation": "23 Apr 2017 8:42:35", "feedname": "Raghav", "pubmedname: "Dev", "description": "Description text", "specialtyid": "1", "topic": "Coding", "rssurl":"RSS URL", "papersperweek":"2", "avepercentageright":"70%"}
 }
