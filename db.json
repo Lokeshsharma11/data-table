@@ -1,56 +1,433 @@
 {
-  "logins": [
-      {"logid": "01", "logtype":"Eliseo@gardner.biz", "logtime": "23 Apr 2017 8:42:35", "userid": "01"},
-      {"logid": "02", "logtype":"Jayne_Kuhic@sydney.com", "logtime": "23 Apr 2017 8:42:35", "userid": "02"},
-      {"logid": "03", "logtype":"Nikita@garfield.biz", "logtime": "23 Apr 2017 8:42:35", "userid": "03"},
-      {"logid": "04", "logtype":"Lew@alysha.tv", "logtime": "23 Apr 2017 8:42:35", "userid": "04"},
-      {"logid": "05", "logtype":"Hayden@althea.biz", "logtime": "23 Apr 2017 8:42:35", "userid": "05"},
-      {"logid": "06", "logtype":"Ravi@gmail.com", "logtime": "23 Apr 2017 8:42:35", "userid": "06"},
-      {"logid": "07", "logtype":"Raghav@yahoo.in", "logtime": "23 Apr 2017 8:42:35", "userid": "07"},
-      {"logid": "08", "logtype":"Eliseo@gardner.biz", "logtime": "23 Apr 2017 8:42:35", "userid": "08"},
-      {"logid": "09", "logtype":"Jayne_Kuhic@sydney.com", "logtime": "23 Apr 2017 8:42:35", "userid": "09"},
-      {"logid": "10", "logtype":"Nikita@garfield.biz", "logtime": "23 Apr 2017 8:42:35", "userid": "10"},
-      {"logid": "11", "logtype":"Lew@alysha.tv", "logtime": "23 Apr 2017 8:42:35", "userid": "11"},
-      {"logid": "12", "logtype":"Hayden@althea.biz", "logtime": "23 Apr 2017 8:42:35", "userid": "12"},
-      {"logid": "13", "logtype":"Ravi@gmail.com", "logtime": "23 Apr 2017 8:42:35", "userid": "13"},
-      {"logid": "14", "logtype":"Eliseo@gardner.biz", "logtime": "23 Apr 2017 8:42:35", "userid": "14"},
-      {"logid": "15", "logtype":"Jayne_Kuhic@sydney.com", "logtime": "23 Apr 2017 8:42:35", "userid": "15"},
-      {"logid": "16", "logtype":"Nikita@garfield.biz", "logtime": "23 Apr 2017 8:42:35", "userid": "16"},
-      {"logid": "17", "logtype":"Hayden@althea.biz", "logtime": "23 Apr 2017 8:42:35", "userid": "17"},
-      {"logid": "18", "logtype":"Lew@alysha.tv", "logtime": "23 Apr 2017 8:42:35", "userid": "18"},
-      {"logid": "19", "logtype":"Eliseo@gardner.biz", "logtime": "23 Apr 2017 8:42:35", "userid": "19"}
+    "logins": [
+        {
+            "logid": "01",
+            "logtype": "Eliseo@gardner.biz",
+            "logtime": "23 Apr 2017 8:42:35",
+            "userid": "01"
+        },
+        {
+            "logid": "02",
+            "logtype": "Jayne_Kuhic@sydney.com",
+            "logtime": "23 Apr 2017 8:42:35",
+            "userid": "02"
+        },
+        {
+            "logid": "03",
+            "logtype": "Nikita@garfield.biz",
+            "logtime": "23 Apr 2017 8:42:35",
+            "userid": "03"
+        },
+        {
+            "logid": "04",
+            "logtype": "Lew@alysha.tv",
+            "logtime": "23 Apr 2017 8:42:35",
+            "userid": "04"
+        },
+        {
+            "logid": "05",
+            "logtype": "Hayden@althea.biz",
+            "logtime": "23 Apr 2017 8:42:35",
+            "userid": "05"
+        },
+        {
+            "logid": "06",
+            "logtype": "Ravi@gmail.com",
+            "logtime": "23 Apr 2017 8:42:35",
+            "userid": "06"
+        },
+        {
+            "logid": "07",
+            "logtype": "Raghav@yahoo.in",
+            "logtime": "23 Apr 2017 8:42:35",
+            "userid": "07"
+        },
+        {
+            "logid": "08",
+            "logtype": "Eliseo@gardner.biz",
+            "logtime": "23 Apr 2017 8:42:35",
+            "userid": "08"
+        },
+        {
+            "logid": "09",
+            "logtype": "Jayne_Kuhic@sydney.com",
+            "logtime": "23 Apr 2017 8:42:35",
+            "userid": "09"
+        },
+        {
+            "logid": "10",
+            "logtype": "Nikita@garfield.biz",
+            "logtime": "23 Apr 2017 8:42:35",
+            "userid": "10"
+        },
+        {
+            "logid": "11",
+            "logtype": "Lew@alysha.tv",
+            "logtime": "23 Apr 2017 8:42:35",
+            "userid": "11"
+        },
+        {
+            "logid": "12",
+            "logtype": "Hayden@althea.biz",
+            "logtime": "23 Apr 2017 8:42:35",
+            "userid": "12"
+        },
+        {
+            "logid": "13",
+            "logtype": "Ravi@gmail.com",
+            "logtime": "23 Apr 2017 8:42:35",
+            "userid": "13"
+        },
+        {
+            "logid": "14",
+            "logtype": "Eliseo@gardner.biz",
+            "logtime": "23 Apr 2017 8:42:35",
+            "userid": "14"
+        },
+        {
+            "logid": "15",
+            "logtype": "Jayne_Kuhic@sydney.com",
+            "logtime": "23 Apr 2017 8:42:35",
+            "userid": "15"
+        },
+        {
+            "logid": "16",
+            "logtype": "Nikita@garfield.biz",
+            "logtime": "23 Apr 2017 8:42:35",
+            "userid": "16"
+        },
+        {
+            "logid": "17",
+            "logtype": "Hayden@althea.biz",
+            "logtime": "23 Apr 2017 8:42:35",
+            "userid": "17"
+        },
+        {
+            "logid": "18",
+            "logtype": "Lew@alysha.tv",
+            "logtime": "23 Apr 2017 8:42:35",
+            "userid": "18"
+        },
+        {
+            "logid": "19",
+            "logtype": "Eliseo@gardner.biz",
+            "logtime": "23 Apr 2017 8:42:35",
+            "userid": "19"
+        }
     ],
-      "specialty": [
-      {"specialtyid": "01", "specialty":"Cardiology", "topic": "Syncope - Guidelines", "totaluser": "10", "totalfeed": "20", "totaladminfeed": "10", "totaluserfeed": "30"},
-      {"specialtyid": "02", "specialty":"Endocrionology", "topic": "Diabetes", "totaluser": "20", "totalfeed": "30", "totaladminfeed": "30", "totaluserfeed": "40"},
-      {"specialtyid": "03", "specialty":"Nephrology", "topic": "Nephrolithiasis - RCT", "totaluser": "30", "totalfeed": "10", "totaladminfeed": "20", "totaluserfeed": "10"},
-      {"specialtyid": "04", "specialty":"Urology", "topic": "Dysphagia", "totaluser": "40", "totalfeed": "22", "totaladminfeed": "30", "totaluserfeed": "20"},
-      {"specialtyid": "05", "specialty":"Gastroenterology", "topic": "RCT", "totaluser": "10", "totalfeed": "20", "totaladminfeed": "10", "totaluserfeed": "30"},
-      {"specialtyid": "06", "specialty":"Internal Medicine", "topic": "Hypertension - Guidelines", "totaluser": "20", "totalfeed": "30", "totaladminfeed": "30", "totaluserfeed": "40"},
-      {"specialtyid": "07", "specialty":"Gastroenterology", "topic": "RCT", "totaluser": "30", "totalfeed": "10", "totaladminfeed": "20", "totaluserfeed": "10"},
-      {"specialtyid": "08", "specialty":"Endocrionology", "topic": "Diabetes", "totaluser": "40", "totalfeed": "22", "totaladminfeed": "30", "totaluserfeed": "20"},
-      {"specialtyid": "09", "specialty":"Nephrology", "topic": "Nephrolithiasis - RCT", "totaluser": "10", "totalfeed": "20", "totaladminfeed": "10", "totaluserfeed": "30"},
-      {"specialtyid": "10", "specialty":"Internal Medicine", "topic": "Hypertension - Guidelines", "totaluser": "20", "totalfeed": "30", "totaladminfeed": "30", "totaluserfeed": "40"},
-      {"specialtyid": "11", "specialty":"Cardiology", "topic": "Syncope - Guidelines", "totaluser": "30", "totalfeed": "10", "totaladminfeed": "20", "totaluserfeed": "10"},
-      {"specialtyid": "12", "specialty":"Gastroenterology", "topic": "RCT", "totaluser": "40", "totalfeed": "22", "totaladminfeed": "30", "totaluserfeed": "20"},
-      {"specialtyid": "13", "specialty":"Internal Medicine", "topic": "Hypertension - Guidelines", "totaluser": "20", "totalfeed": "30", "totaladminfeed": "30", "totaluserfeed": "40"},
-      {"specialtyid": "14", "specialty":"Gastroenterology", "topic": "RCT", "totaluser": "30", "totalfeed": "10", "totaladminfeed": "20", "totaluserfeed": "10"},
-      {"specialtyid": "15", "specialty":"Endocrionology", "topic": "Diabetes", "totaluser": "40", "totalfeed": "22", "totaladminfeed": "30", "totaluserfeed": "20"},
-      {"specialtyid": "16", "specialty":"Nephrology", "topic": "Nephrolithiasis - RCT", "totaluser": "10", "totalfeed": "20", "totaladminfeed": "10", "totaluserfeed": "30"},
-      {"specialtyid": "17", "specialty":"Internal Medicine", "topic": "Hypertension - Guidelines", "totaluser": "20", "totalfeed": "30", "totaladminfeed": "30", "totaluserfeed": "40"},
-      {"specialtyid": "18", "specialty":"Cardiology", "topic": "Syncope - Guidelines", "totaluser": "30", "totalfeed": "10", "totaladminfeed": "20", "totaluserfeed": "10"},
-      {"specialtyid": "19", "specialty":"Gastroenterology", "topic": "RCT", "totaluser": "40", "totalfeed": "22", "totaladminfeed": "30", "totaluserfeed": "20"}
+    "specialty": [
+        {
+            "specialtyid": "01",
+            "specialty": "Cardiology",
+            "topic": "Syncope - Guidelines",
+            "totaluser": "10",
+            "totalfeed": "20",
+            "totaladminfeed": "10",
+            "totaluserfeed": "30"
+        },
+        {
+            "specialtyid": "02",
+            "specialty": "Endocrionology",
+            "topic": "Diabetes",
+            "totaluser": "20",
+            "totalfeed": "30",
+            "totaladminfeed": "30",
+            "totaluserfeed": "40"
+        },
+        {
+            "specialtyid": "03",
+            "specialty": "Nephrology",
+            "topic": "Nephrolithiasis - RCT",
+            "totaluser": "30",
+            "totalfeed": "10",
+            "totaladminfeed": "20",
+            "totaluserfeed": "10"
+        },
+        {
+            "specialtyid": "04",
+            "specialty": "Urology",
+            "topic": "Dysphagia",
+            "totaluser": "40",
+            "totalfeed": "22",
+            "totaladminfeed": "30",
+            "totaluserfeed": "20"
+        },
+        {
+            "specialtyid": "05",
+            "specialty": "Gastroenterology",
+            "topic": "RCT",
+            "totaluser": "10",
+            "totalfeed": "20",
+            "totaladminfeed": "10",
+            "totaluserfeed": "30"
+        },
+        {
+            "specialtyid": "06",
+            "specialty": "Internal Medicine",
+            "topic": "Hypertension - Guidelines",
+            "totaluser": "20",
+            "totalfeed": "30",
+            "totaladminfeed": "30",
+            "totaluserfeed": "40"
+        },
+        {
+            "specialtyid": "07",
+            "specialty": "Gastroenterology",
+            "topic": "RCT",
+            "totaluser": "30",
+            "totalfeed": "10",
+            "totaladminfeed": "20",
+            "totaluserfeed": "10"
+        },
+        {
+            "specialtyid": "08",
+            "specialty": "Endocrionology",
+            "topic": "Diabetes",
+            "totaluser": "40",
+            "totalfeed": "22",
+            "totaladminfeed": "30",
+            "totaluserfeed": "20"
+        },
+        {
+            "specialtyid": "09",
+            "specialty": "Nephrology",
+            "topic": "Nephrolithiasis - RCT",
+            "totaluser": "10",
+            "totalfeed": "20",
+            "totaladminfeed": "10",
+            "totaluserfeed": "30"
+        },
+        {
+            "specialtyid": "10",
+            "specialty": "Internal Medicine",
+            "topic": "Hypertension - Guidelines",
+            "totaluser": "20",
+            "totalfeed": "30",
+            "totaladminfeed": "30",
+            "totaluserfeed": "40"
+        },
+        {
+            "specialtyid": "11",
+            "specialty": "Cardiology",
+            "topic": "Syncope - Guidelines",
+            "totaluser": "30",
+            "totalfeed": "10",
+            "totaladminfeed": "20",
+            "totaluserfeed": "10"
+        },
+        {
+            "specialtyid": "12",
+            "specialty": "Gastroenterology",
+            "topic": "RCT",
+            "totaluser": "40",
+            "totalfeed": "22",
+            "totaladminfeed": "30",
+            "totaluserfeed": "20"
+        },
+        {
+            "specialtyid": "13",
+            "specialty": "Internal Medicine",
+            "topic": "Hypertension - Guidelines",
+            "totaluser": "20",
+            "totalfeed": "30",
+            "totaladminfeed": "30",
+            "totaluserfeed": "40"
+        },
+        {
+            "specialtyid": "14",
+            "specialty": "Gastroenterology",
+            "topic": "RCT",
+            "totaluser": "30",
+            "totalfeed": "10",
+            "totaladminfeed": "20",
+            "totaluserfeed": "10"
+        },
+        {
+            "specialtyid": "15",
+            "specialty": "Endocrionology",
+            "topic": "Diabetes",
+            "totaluser": "40",
+            "totalfeed": "22",
+            "totaladminfeed": "30",
+            "totaluserfeed": "20"
+        },
+        {
+            "specialtyid": "16",
+            "specialty": "Nephrology",
+            "topic": "Nephrolithiasis - RCT",
+            "totaluser": "10",
+            "totalfeed": "20",
+            "totaladminfeed": "10",
+            "totaluserfeed": "30"
+        },
+        {
+            "specialtyid": "17",
+            "specialty": "Internal Medicine",
+            "topic": "Hypertension - Guidelines",
+            "totaluser": "20",
+            "totalfeed": "30",
+            "totaladminfeed": "30",
+            "totaluserfeed": "40"
+        },
+        {
+            "specialtyid": "18",
+            "specialty": "Cardiology",
+            "topic": "Syncope - Guidelines",
+            "totaluser": "30",
+            "totalfeed": "10",
+            "totaladminfeed": "20",
+            "totaluserfeed": "10"
+        },
+        {
+            "specialtyid": "19",
+            "specialty": "Gastroenterology",
+            "topic": "RCT",
+            "totaluser": "40",
+            "totalfeed": "22",
+            "totaladminfeed": "30",
+            "totaluserfeed": "20"
+        }
     ],
-      "feedinformation": [
-         { "feedid": "01", "enabledisable":"enable", "creator": "Code", "timestampcreation": "23 Apr 2017 8:42:35", "feedname": "Syncope - Guidelinesss", "pubmedname": "Lew", "description": "Description text", "specialtyid": "1", "topic": "Diabetes", "rssurl":"RSS URL", "papersperweek":"2", "avepercentageright":"70%"},
-         { "feedid": "02", "enabledisable":"enable", "creator": "Code", "timestampcreation": "23 Apr 2017 8:42:35", "feedname": "Arrhythmias - RCTs", "pubmedname": "Lew", "description": "Description text", "specialtyid": "2", "topic": "Syncope - Guidelines", "rssurl":"RSS URL", "papersperweek":"2", "avepercentageright":"70%"},
-         { "feedid": "03", "enabledisable":"enable", "creator": "Code", "timestampcreation": "23 Apr 2017 8:42:35", "feedname": "Coronary Artery Disease", "pubmedname": "Lew", "description": "Description text", "specialtyid": "3", "topic": "Nephrolithiasis - RCT", "rssurl":"RSS URL", "papersperweek":"2", "avepercentageright":"70%"},
-         { "feedid": "04", "enabledisable":"enable", "creator": "Code", "timestampcreation": "23 Apr 2017 8:42:35", "feedname": "Randomized controlled trial", "pubmedname": "Lew", "description": "Description text", "specialtyid": "4", "topic": "RCT", "rssurl":"RSS URL", "papersperweek":"2", "avepercentageright":"70%"},
-         { "feedid": "05", "enabledisable":"enable", "creator": "Code", "timestampcreation": "23 Apr 2017 8:42:35", "feedname": "Nephrolithiasis, Kidney Stones", "pubmedname": "Lew", "description": "Description text", "specialtyid": "5", "topic": "Hypertension - Guidelines", "rssurl":"RSS URL", "papersperweek":"2", "avepercentageright":"70%"},
-         { "feedid": "06", "enabledisable":"enable", "creator": "Code", "timestampcreation": "23 Apr 2017 8:42:35", "feedname": "Kidney Stones", "pubmedname": "Lew", "description": "Description text", "specialtyid": "6", "topic": "Syncope - Guidelines", "rssurl":"RSS URL", "papersperweek":"2", "avepercentageright":"70%"},
-         { "feedid": "07", "enabledisable":"enable", "creator": "Code", "timestampcreation": "23 Apr 2017 8:42:35", "feedname": "Coronary Artery Disease", "pubmedname": "Lew", "description": "Description text", "specialtyid": "3", "topic": "Nephrolithiasis - RCT", "rssurl":"RSS URL", "papersperweek":"2", "avepercentageright":"70%"},
-         { "feedid": "08", "enabledisable":"enable", "creator": "Code", "timestampcreation": "23 Apr 2017 8:42:35", "feedname": "Randomized controlled trial", "pubmedname": "Lew", "description": "Description text", "specialtyid": "4", "topic": "RCT", "rssurl":"RSS URL", "papersperweek":"2", "avepercentageright":"70%"},
-         { "feedid": "09", "enabledisable":"enable", "creator": "Code", "timestampcreation": "23 Apr 2017 8:42:35", "feedname": "Nephrolithiasis, Kidney Stones", "pubmedname": "Lew", "description": "Description text", "specialtyid": "5", "topic": "Hypertension - Guidelines", "rssurl":"RSS URL", "papersperweek":"2", "avepercentageright":"70%"},
-         { "feedid": "10", "enabledisable":"enable", "creator": "Code", "timestampcreation": "23 Apr 2017 8:42:35", "feedname": "Kidney Stones", "pubmedname": "Lew", "description": "Description text", "specialtyid": "6", "topic": "Syncope - Guidelines", "rssurl":"RSS URL", "papersperweek":"2", "avepercentageright":"70%"}
-   ]      
+    "feedinformation": [
+        {
+            "feedid": "01",
+            "enabledisable": "enable",
+            "creator": "Eliseo",
+            "timestampcreation": "23 Apr 2017 8:42:35",
+            "feedname": "Syncope - Guidelinesss",
+            "pubmedname": "Lew",
+            "description": "Description text",
+            "specialtyid": "Cardiology",
+            "topic": "Diabetes",
+            "rssurl": "RSS URL",
+            "papersperweek": "2",
+            "avepercentageright": "70%"
+        },
+        {
+            "feedid": "02",
+            "enabledisable": "enable",
+            "creator": "Jayne",
+            "timestampcreation": "23 Apr 2017 8:42:35",
+            "feedname": "Arrhythmias - RCTs",
+            "pubmedname": "Lew",
+            "description": "Description text",
+            "specialtyid": "Endocrionology",
+            "topic": "Syncope - Guidelines",
+            "rssurl": "RSS URL",
+            "papersperweek": "2",
+            "avepercentageright": "70%"
+        },
+        {
+            "feedid": "03",
+            "enabledisable": "enable",
+            "creator": "Nikita",
+            "timestampcreation": "23 Apr 2017 8:42:35",
+            "feedname": "Coronary Artery Disease",
+            "pubmedname": "Lew",
+            "description": "Description text",
+            "specialtyid": "Nephrology",
+            "topic": "Nephrolithiasis - RCT",
+            "rssurl": "RSS URL",
+            "papersperweek": "2",
+            "avepercentageright": "70%"
+        },
+        {
+            "feedid": "04",
+            "enabledisable": "enable",
+            "creator": "Hayden",
+            "timestampcreation": "23 Apr 2017 8:42:35",
+            "feedname": "Randomized controlled trial",
+            "pubmedname": "Lew",
+            "description": "Description text",
+            "specialtyid": "Urology",
+            "topic": "RCT",
+            "rssurl": "RSS URL",
+            "papersperweek": "2",
+            "avepercentageright": "70%"
+        },
+        {
+            "feedid": "05",
+            "enabledisable": "enable",
+            "creator": "Ravi",
+            "timestampcreation": "23 Apr 2017 8:42:35",
+            "feedname": "Nephrolithiasis, Kidney Stones",
+            "pubmedname": "Lew",
+            "description": "Description text",
+            "specialtyid": "Gastroenterology",
+            "topic": "Hypertension - Guidelines",
+            "rssurl": "RSS URL",
+            "papersperweek": "2",
+            "avepercentageright": "70%"
+        },
+        {
+            "feedid": "06",
+            "enabledisable": "enable",
+            "creator": "Raghav",
+            "timestampcreation": "23 Apr 2017 8:42:35",
+            "feedname": "Kidney Stones",
+            "pubmedname": "Lew",
+            "description": "Description text",
+            "specialtyid": "Internal Medicine",
+            "topic": "Syncope - Guidelines",
+            "rssurl": "RSS URL",
+            "papersperweek": "2",
+            "avepercentageright": "70%"
+        },
+        {
+            "feedid": "07",
+            "enabledisable": "enable",
+            "creator": "Eliseo",
+            "timestampcreation": "23 Apr 2017 8:42:35",
+            "feedname": "Coronary Artery Disease",
+            "pubmedname": "Lew",
+            "description": "Description text",
+            "specialtyid": "Gastroenterology",
+            "topic": "Nephrolithiasis - RCT",
+            "rssurl": "RSS URL",
+            "papersperweek": "2",
+            "avepercentageright": "70%"
+        },
+        {
+            "feedid": "08",
+            "enabledisable": "enable",
+            "creator": "Jayne",
+            "timestampcreation": "23 Apr 2017 8:42:35",
+            "feedname": "Randomized controlled trial",
+            "pubmedname": "Lew",
+            "description": "Description text",
+            "specialtyid": "Endocrionology",
+            "topic": "RCT",
+            "rssurl": "RSS URL",
+            "papersperweek": "2",
+            "avepercentageright": "70%"
+        },
+        {
+            "feedid": "09",
+            "enabledisable": "enable",
+            "creator": "Nikita",
+            "timestampcreation": "23 Apr 2017 8:42:35",
+            "feedname": "Nephrolithiasis, Kidney Stones",
+            "pubmedname": "Lew",
+            "description": "Description text",
+            "specialtyid": "Nephrology",
+            "topic": "Hypertension - Guidelines",
+            "rssurl": "RSS URL",
+            "papersperweek": "2",
+            "avepercentageright": "70%"
+        },
+        {
+            "feedid": "10",
+            "enabledisable": "enable",
+            "creator": "Hayden",
+            "timestampcreation": "23 Apr 2017 8:42:35",
+            "feedname": "Kidney Stones",
+            "pubmedname": "Lew",
+            "description": "Description text",
+            "specialtyid": "Internal Medicine",
+            "topic": "Syncope - Guidelines",
+            "rssurl": "RSS URL",
+            "papersperweek": "2",
+            "avepercentageright": "70%"
+        }
+    ]
 }
