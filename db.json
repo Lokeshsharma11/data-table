@@ -101,18 +101,6 @@
             "logtype": "Hayden@althea.biz",
             "logtime": "23 Apr 2017 8:42:35",
             "userid": "17"
-        },
-        {
-            "logid": "18",
-            "logtype": "Lew@alysha.tv",
-            "logtime": "23 Apr 2017 8:42:35",
-            "userid": "18"
-        },
-        {
-            "logid": "19",
-            "logtype": "Eliseo@gardner.biz",
-            "logtime": "23 Apr 2017 8:42:35",
-            "userid": "19"
         }
     ],
     "specialty": [
@@ -250,42 +238,6 @@
             "totalfeed": "22",
             "totaladminfeed": "30",
             "totaluserfeed": "20"
-        },
-        {
-            "specialtyid": "16",
-            "specialty": "Nephrology",
-            "topic": "Nephrolithiasis - RCT",
-            "totaluser": "10",
-            "totalfeed": "20",
-            "totaladminfeed": "10",
-            "totaluserfeed": "30"
-        },
-        {
-            "specialtyid": "17",
-            "specialty": "Internal Medicine",
-            "topic": "Hypertension - Guidelines",
-            "totaluser": "20",
-            "totalfeed": "30",
-            "totaladminfeed": "30",
-            "totaluserfeed": "40"
-        },
-        {
-            "specialtyid": "18",
-            "specialty": "Cardiology",
-            "topic": "Syncope - Guidelines",
-            "totaluser": "30",
-            "totalfeed": "10",
-            "totaladminfeed": "20",
-            "totaluserfeed": "10"
-        },
-        {
-            "specialtyid": "19",
-            "specialty": "Gastroenterology",
-            "topic": "RCT",
-            "totaluser": "40",
-            "totalfeed": "22",
-            "totaladminfeed": "30",
-            "totaluserfeed": "20"
         }
     ],
     "feedinformation": [
@@ -411,20 +363,6 @@
             "description": "Description text",
             "specialtyid": "Nephrology",
             "topic": "Hypertension - Guidelines",
-            "rssurl": "RSS URL",
-            "papersperweek": "2",
-            "avepercentageright": "70%"
-        },
-        {
-            "feedid": "10",
-            "enabledisable": "enable",
-            "creator": "Hayden",
-            "timestampcreation": "23 Apr 2017 8:42:35",
-            "feedname": "Kidney Stones",
-            "pubmedname": "Lew",
-            "description": "Description text",
-            "specialtyid": "Internal Medicine",
-            "topic": "Syncope - Guidelines",
             "rssurl": "RSS URL",
             "papersperweek": "2",
             "avepercentageright": "70%"
