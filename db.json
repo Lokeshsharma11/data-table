@@ -108,8 +108,8 @@
             "specialtyid": "01",
             "specialty": "Cardiology",
             "topic": "Syncope - Guidelines",
-            "totaluser": "10",
-            "totalfeed": "20",
+            "totaluser": "100",
+            "totalfeed": "40",
             "totaladminfeed": "10",
             "totaluserfeed": "30"
         },
@@ -117,8 +117,8 @@
             "specialtyid": "02",
             "specialty": "Endocrionology",
             "topic": "Diabetes",
-            "totaluser": "20",
-            "totalfeed": "30",
+            "totaluser": "200",
+            "totalfeed": "70",
             "totaladminfeed": "30",
             "totaluserfeed": "40"
         },
@@ -126,8 +126,8 @@
             "specialtyid": "03",
             "specialty": "Nephrology",
             "topic": "Nephrolithiasis - RCT",
-            "totaluser": "30",
-            "totalfeed": "10",
+            "totaluser": "300",
+            "totalfeed": "30",
             "totaladminfeed": "20",
             "totaluserfeed": "10"
         },
@@ -135,8 +135,8 @@
             "specialtyid": "04",
             "specialty": "Urology",
             "topic": "Dysphagia",
-            "totaluser": "40",
-            "totalfeed": "22",
+            "totaluser": "400",
+            "totalfeed": "50",
             "totaladminfeed": "30",
             "totaluserfeed": "20"
         },
@@ -144,8 +144,8 @@
             "specialtyid": "05",
             "specialty": "Gastroenterology",
             "topic": "RCT",
-            "totaluser": "10",
-            "totalfeed": "20",
+            "totaluser": "100",
+            "totalfeed": "40",
             "totaladminfeed": "10",
             "totaluserfeed": "30"
         },
@@ -153,8 +153,8 @@
             "specialtyid": "06",
             "specialty": "Internal Medicine",
             "topic": "Hypertension - Guidelines",
-            "totaluser": "20",
-            "totalfeed": "30",
+            "totaluser": "200",
+            "totalfeed": "70",
             "totaladminfeed": "30",
             "totaluserfeed": "40"
         },
@@ -162,8 +162,8 @@
             "specialtyid": "07",
             "specialty": "Gastroenterology",
             "topic": "RCT",
-            "totaluser": "30",
-            "totalfeed": "10",
+            "totaluser": "300",
+            "totalfeed": "30",
             "totaladminfeed": "20",
             "totaluserfeed": "10"
         },
@@ -171,44 +171,44 @@
             "specialtyid": "08",
             "specialty": "Endocrionology",
             "topic": "Diabetes",
-            "totaluser": "40",
-            "totalfeed": "22",
+            "totaluser": "140",
+            "totalfeed": "40",
             "totaladminfeed": "30",
-            "totaluserfeed": "20"
+            "totaluserfeed": "10"
         },
         {
             "specialtyid": "09",
             "specialty": "Nephrology",
             "topic": "Nephrolithiasis - RCT",
-            "totaluser": "10",
-            "totalfeed": "20",
-            "totaladminfeed": "10",
+            "totaluser": "210",
+            "totalfeed": "90",
+            "totaladminfeed": "60",
             "totaluserfeed": "30"
         },
         {
             "specialtyid": "10",
             "specialty": "Internal Medicine",
             "topic": "Hypertension - Guidelines",
-            "totaluser": "20",
-            "totalfeed": "30",
-            "totaladminfeed": "30",
+            "totaluser": "220",
+            "totalfeed": "80",
+            "totaladminfeed": "40",
             "totaluserfeed": "40"
         },
         {
             "specialtyid": "11",
             "specialty": "Cardiology",
             "topic": "Syncope - Guidelines",
-            "totaluser": "30",
-            "totalfeed": "10",
+            "totaluser": "350",
+            "totalfeed": "40",
             "totaladminfeed": "20",
-            "totaluserfeed": "10"
+            "totaluserfeed": "20"
         },
         {
             "specialtyid": "12",
             "specialty": "Gastroenterology",
             "topic": "RCT",
-            "totaluser": "40",
-            "totalfeed": "22",
+            "totaluser": "400",
+            "totalfeed": "50",
             "totaladminfeed": "30",
             "totaluserfeed": "20"
         },
@@ -216,8 +216,8 @@
             "specialtyid": "13",
             "specialty": "Internal Medicine",
             "topic": "Hypertension - Guidelines",
-            "totaluser": "20",
-            "totalfeed": "30",
+            "totaluser": "200",
+            "totalfeed": "70",
             "totaladminfeed": "30",
             "totaluserfeed": "40"
         },
@@ -225,8 +225,8 @@
             "specialtyid": "14",
             "specialty": "Gastroenterology",
             "topic": "RCT",
-            "totaluser": "30",
-            "totalfeed": "10",
+            "totaluser": "130",
+            "totalfeed": "30",
             "totaladminfeed": "20",
             "totaluserfeed": "10"
         },
@@ -234,10 +234,10 @@
             "specialtyid": "15",
             "specialty": "Endocrionology",
             "topic": "Diabetes",
-            "totaluser": "40",
-            "totalfeed": "22",
-            "totaladminfeed": "30",
-            "totaluserfeed": "20"
+            "totaluser": "450",
+            "totalfeed": "100",
+            "totaladminfeed": "50",
+            "totaluserfeed": "50"
         }
     ]
 }
